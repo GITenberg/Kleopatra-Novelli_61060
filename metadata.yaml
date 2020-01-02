@@ -1,0 +1,30 @@
+_repo: Kleopatra-Novelli_61060
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2019-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61060'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kleopatra
+
+  Novelli'
+url: http://www.gutenberg.org/ebooks/61060
